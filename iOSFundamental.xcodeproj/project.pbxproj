@@ -16,6 +16,8 @@
 		B3238E562590BBE500B37435 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3238E542590BBE500B37435 /* LaunchScreen.storyboard */; };
 		B3238E612590BBE500B37435 /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3238E602590BBE500B37435 /* HelloWorldTests.swift */; };
 		B3238E6C2590BBE500B37435 /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3238E6B2590BBE500B37435 /* HelloWorldUITests.swift */; };
+		B3315400259DEA3800876AE4 /* ObserverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B33153FF259DEA3800876AE4 /* ObserverViewController.swift */; };
+		B3315408259DF2C300876AE4 /* NotifyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3315407259DF2C300876AE4 /* NotifyViewController.swift */; };
 		B384265C25931D8B00162226 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B384265B25931D8B00162226 /* FirstViewController.swift */; };
 		B384266025933E6500162226 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B384265F25933E6500162226 /* SecondViewController.swift */; };
 		B3BB4226259C424E004DE1E3 /* ContactViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BB4225259C424E004DE1E3 /* ContactViewCell.swift */; };
@@ -131,6 +133,8 @@
 		B3238E672590BBE500B37435 /* iOSFundamentalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSFundamentalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3238E6B2590BBE500B37435 /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		B3238E6D2590BBE500B37435 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B33153FF259DEA3800876AE4 /* ObserverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObserverViewController.swift; sourceTree = "<group>"; };
+		B3315407259DF2C300876AE4 /* NotifyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotifyViewController.swift; sourceTree = "<group>"; };
 		B384265B25931D8B00162226 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		B384265F25933E6500162226 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		B3BB4225259C424E004DE1E3 /* ContactViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewCell.swift; sourceTree = "<group>"; };
@@ -202,6 +206,8 @@
 				B30A7C6025949CDF00C9C3E1 /* TableViewDetailViewController.swift */,
 				B3D155A6259B5472002E036E /* ContactViewController.swift */,
 				B3BB4225259C424E004DE1E3 /* ContactViewCell.swift */,
+				B33153FF259DEA3800876AE4 /* ObserverViewController.swift */,
+				B3315407259DF2C300876AE4 /* NotifyViewController.swift */,
 				B3238E6A2590BBE500B37435 /* iOSFundamentalUITests */,
 				B3238E5F2590BBE500B37435 /* iOSFundamentalTests */,
 				B3238E4F2590BBE300B37435 /* Main.storyboard */,
@@ -460,10 +466,12 @@
 			files = (
 				B384266025933E6500162226 /* SecondViewController.swift in Sources */,
 				B3D155A7259B5472002E036E /* ContactViewController.swift in Sources */,
+				B3315400259DEA3800876AE4 /* ObserverViewController.swift in Sources */,
 				B3BB4230259C4BF6004DE1E3 /* Contact.swift in Sources */,
 				B384265C25931D8B00162226 /* FirstViewController.swift in Sources */,
 				B3238E4E2590BBE300B37435 /* MainViewController.swift in Sources */,
 				B3238E4C2590BBE300B37435 /* AppDelegate.swift in Sources */,
+				B3315408259DF2C300876AE4 /* NotifyViewController.swift in Sources */,
 				B3BB4233259C4CDA004DE1E3 /* ContactDB.swift in Sources */,
 				B3BB4226259C424E004DE1E3 /* ContactViewCell.swift in Sources */,
 				B30A7C5F25949C4900C9C3E1 /* TableViewViewController.swift in Sources */,
