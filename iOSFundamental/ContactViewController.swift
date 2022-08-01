@@ -2,8 +2,7 @@
 //  ContactViewController.swift
 //  iOSFundamental
 //
-//  Created by XORGEEK3 on 29/12/20.
-//  Copyright © 2020 XORGEEK. All rights reserved.
+//  Created by Almasud on 29/12/20.
 //
 
 import UIKit

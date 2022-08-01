@@ -2,8 +2,7 @@
 //  Contact.swift
 //  iOSFundamental
 //
-//  Created by XORGEEK3 on 30/12/20.
-//  Copyright © 2020 XORGEEK. All rights reserved.
+//  Created by Almasud on 30/12/20.
 //
 
 import Foundation

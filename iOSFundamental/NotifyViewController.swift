@@ -2,8 +2,7 @@
 //  NotifyViewController.swift
 //  iOSFundamental
 //
-//  Created by XORGEEK3 on 31/12/20.
-//  Copyright © 2020 XORGEEK. All rights reserved.
+//  Created by Almasud on 31/12/20.
 //
 
 import UIKit

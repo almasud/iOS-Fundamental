@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  HelloWorld
 //
-//  Created by XORGEEK3 on 21/12/20.
-//  Copyright © 2020 XORGEEK. All rights reserved.
+//  Created by Almasud on 21/12/20.
 //
 
 import UIKit
